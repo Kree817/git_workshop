@@ -1,2 +1,2 @@
 # git_workshop
-feb 16
+16 February 2024
